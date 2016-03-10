@@ -1,0 +1,34 @@
+body {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.center {
+
+}
+.header{
+  font-size: 450%;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  margin-top: 110px;
+}
+ul li {
+  display: block;
+  padding-left: 30px;
+  position: relative;
+  margin-bottom: 4px;
+  border-radius: 5px;
+  padding: 2px 8px 2px 28px;
+  font-size: 20px;
+  cursor: default;
+}
+li span {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 25px;
+  height: 80%;
+  border-radius: 5px;
+}
