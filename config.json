@@ -1,6 +1,6 @@
 {
   "header": "Score board",
   "backgroundColor": "#009FDA",
-  "database": "http://192.168.8.7:8000/api/leaderboard/",
+  "database": "http://178.85.101.249:8000/api/leaderboard/",
   "textColor": "#FFFFFF"
 }
